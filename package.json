@@ -2,7 +2,7 @@
   "name": "robofriends-pwa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zenith89.github.io/",
+  "homepage": "https://zenith89.github.io/robofriends-pwa",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.2.0",
